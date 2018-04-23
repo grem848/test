@@ -22,6 +22,8 @@ public class Test
         System.out.println("hej med dig");
         System.out.println("hej med dig");
         System.out.println("hej med chef");
+        System.out.println("hej med rasmus alt virker");
+        
         
         
     }
