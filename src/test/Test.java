@@ -19,6 +19,7 @@ public class Test
     {
         System.out.println("hej med dig");
         System.out.println("hej med dig");
+        System.out.println("hej med dig");
     }
     
 }
